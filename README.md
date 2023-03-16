@@ -2,7 +2,6 @@
 </br>
 </br>
 Angela Yu Course
-</br>
 Used HTML, CSS & Bootstrap to develop this site
 </br>
 </br>
