@@ -1,4 +1,4 @@
-#TinDog :dog::heart:
+TinDog :dog::heart:
 </br>
 </br>
 
