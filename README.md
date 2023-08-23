@@ -2,7 +2,7 @@ TinDog :dog::heart:
 </br>
 </br>
 
-Included in the repository are : 
+Included in the repository are as follows : 
 </br>
 📁 Clinic Queue zip file 
 </br>
