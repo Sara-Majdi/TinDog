@@ -4,7 +4,7 @@ TinDog :dog::heart:
 
 Included in the repository are : 
 </br>
-📁 Clinic Queue zip file 
+📁 Clinic Queue zip file  
 </br>
 📃 Report of Clinic Queueing System 
 </br>
